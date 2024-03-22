@@ -1,4 +1,4 @@
-# Lenguage del sito :\[[EN](https://henryhodelin.github.io/Short_Resume_EN/),[PT](https://henryhodelin.github.io/Short_Resume_EN/),[ES](https://henryhodelin.github.io/Short_Resume_EN/)\]
+# Lenguage del sitio :\[[EN](https://henryhodelin.github.io/Short_Resume_EN/),[PT](https://henryhodelin.github.io/Short_Resume_EN/),[ES](https://henryhodelin.github.io/Short_Resume_EN/)\]
 
 # Data Scientist
 
